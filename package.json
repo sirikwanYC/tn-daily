@@ -1,0 +1,8 @@
+{
+  "name": "tn-daily",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://SirikwanYC@github.com/sirikwanYC/tn-daily.git",
+  "author": "sirikwan <sirikwan_yanchan@hotmail.com>",
+  "license": "MIT"
+}
